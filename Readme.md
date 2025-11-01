@@ -1,7 +1,7 @@
 # 🏆 Social Influencer Platform & Lifestyle Competition
 
 
-Rebuilding from the foundation of the 2022 social influencer platform, this project evolves into a modern competition system and lifestyle platform. A digital ecosystem where influencers and creators can host, join, and promote healthy lifestyle challenges and services.
+Rebuilding from the foundation of the social influencer platform branch (2022), this project evolves into a modern competition system and lifestyle platform. A digital ecosystem where influencers and creators can host, join, and promote healthy lifestyle challenges and services.
 
 
 ## 📖 Overview
